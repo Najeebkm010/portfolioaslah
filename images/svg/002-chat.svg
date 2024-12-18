@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="512" height="512">
+	<title>icons8-video-skimming-96</title>
+	<defs>
+		<image  width="72" height="72" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAAXNSR0IB2cksfwAAAJxQTFRFAAAAUVFR1jRHbGxsbW1tb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vVVVVVFRUT09PUFBQE/pxOAAAADR0Uk5TAP//7vT/9nR5fYGGi4+Tl5ueoqaprrG0uLu+7ezq6Ofl4+Hf3dzZ19XS0M3LyMbD/////7qriN8AAADgSURBVHic7ddZCsIwFAXQpLgG53nWH8H9r0HROs8jbkLrgAOlpH2xXsTiuz8J5HL+Ql6kICIf61mzxxBDDDH0CURqNshQnFl3Q4fxhm6U1HQISFg4SNOhIPEPkOEinhyQM0/4BYVcikcfkFTl4AMK7xVF6q6poMgOBEW3ICi2AUHxNQhKrEBQcgmCUgsQlJ6DoMwMBGWnICg3AUH5MQgqjEBQcQiCSgMQVO6DoEoPBFVNEFTrgqB6BwE1rtu2S9kOkQ9ks+WhvANR+R70exMbbhgVsPHYOwH/QjDEEEPBgS5qKWqJLb3u/gAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="12" y="12"/>
+</svg>
